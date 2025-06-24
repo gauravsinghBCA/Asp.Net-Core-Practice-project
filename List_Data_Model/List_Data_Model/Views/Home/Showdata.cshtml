@@ -1,0 +1,22 @@
+﻿@model IEnumerable<List_Data_Model.Models.Student>
+<h1>Student Details</h1><hr />
+@{
+    <div class="row fw-bold">
+    <div class="col-3">Id</div>
+    <div class="col-3">Name</div>
+    <div class="col-3">Age</div>
+    <div class="col-3">Course</div>
+    <hr />
+    </div>
+    foreach(var item in Model)
+    {
+        <div class="row">
+        
+                <div class="col-3">@item.stid</div>
+                <div class="col-3"> @item.stname</div>
+                <div class="col-3"> @item.stage</div>
+                <div class="col-3">@item.stcourse</div>
+        
+        </div>
+    }
+}
