@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+  <h1>Roll:@ViewBag.roll</h1>
+  <h1>Name:@ViewBag.name</h1>
+  <h1>Course:@ViewBag.course</h1>
+  <h1>First Payment:@ViewBag.fee1</h1>
+  <h1>Second Payment:@ViewBag.fee2</h1>
+  <h1>Total:@(ViewBag.fee1+ViewBag.fee2)</h1>
+</div>

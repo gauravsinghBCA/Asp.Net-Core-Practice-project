@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dotnet_core_mvc6_practice\\ViewBag_demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03764273-A764-4677-BBFE-D7A6AA72144F}|ViewBag_demo\\ViewBag_demo.csproj|e:\\dotnet_core_mvc6_practice\\viewbag_demo\\viewbag_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{03764273-A764-4677-BBFE-D7A6AA72144F}|ViewBag_demo\\ViewBag_demo.csproj|solutionrelative:viewbag_demo\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03764273-A764-4677-BBFE-D7A6AA72144F}|ViewBag_demo\\ViewBag_demo.csproj|e:\\dotnet_core_mvc6_practice\\viewbag_demo\\viewbag_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{03764273-A764-4677-BBFE-D7A6AA72144F}|ViewBag_demo\\ViewBag_demo.csproj|solutionrelative:viewbag_demo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Dotnet_core_mvc6_practice\\ViewBag_demo\\ViewBag_demo\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewBag_demo\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Dotnet_core_mvc6_practice\\ViewBag_demo\\ViewBag_demo\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewBag_demo\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-24T17:02:01.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "E:\\Dotnet_core_mvc6_practice\\ViewBag_demo\\ViewBag_demo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ViewBag_demo\\Controllers\\HomeController.cs",
+              "ToolTip": "E:\\Dotnet_core_mvc6_practice\\ViewBag_demo\\ViewBag_demo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ViewBag_demo\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAIAAADgMjMzMzMrwBUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T16:59:26.03Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
