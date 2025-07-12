@@ -1,0 +1,13 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <h2>Student Id:@ViewData["id"]</h2>
+    <h2>Student Name:@ViewData["name"]</h2>
+    <h2>Student Address:@ViewData["add"]</h2>
+    <h2>First Fee:@ViewData["first1"]</h2>
+    <h2>Second Fee:@ViewData["first2"]</h2>
+    <h2>Total Fee: @Convert.ToInt64((@Convert.ToInt32(ViewData["first1"])+(@Convert.ToInt32(ViewData["first2"])))) </h2>
+</div>
+
