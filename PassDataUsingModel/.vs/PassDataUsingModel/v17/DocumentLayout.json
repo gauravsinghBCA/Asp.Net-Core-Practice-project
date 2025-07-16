@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|e:\\dotnet_core_mvc6_practice\\passdatausingmodel\\passdatausingmodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|solutionrelative:passdatausingmodel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|e:\\dotnet_core_mvc6_practice\\passdatausingmodel\\passdatausingmodel\\controllers\\productcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|solutionrelative:passdatausingmodel\\controllers\\productcontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|e:\\dotnet_core_mvc6_practice\\passdatausingmodel\\passdatausingmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|solutionrelative:passdatausingmodel\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|e:\\dotnet_core_mvc6_practice\\passdatausingmodel\\passdatausingmodel\\views\\productcontroller1\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14D828D3-C5D3-40ED-AB0E-D46F4E5CEEAA}|PassDataUsingModel\\PassDataUsingModel.csproj|solutionrelative:passdatausingmodel\\views\\productcontroller1\\showdata.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ShowData.cshtml",
+              "DocumentMoniker": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Views\\ProductController1\\ShowData.cshtml",
+              "RelativeDocumentMoniker": "PassDataUsingModel\\Views\\ProductController1\\ShowData.cshtml",
+              "ToolTip": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Views\\ProductController1\\ShowData.cshtml",
+              "RelativeToolTip": "PassDataUsingModel\\Views\\ProductController1\\ShowData.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T19:40:40.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductController1.cs",
+              "DocumentMoniker": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Controllers\\ProductController1.cs",
+              "RelativeDocumentMoniker": "PassDataUsingModel\\Controllers\\ProductController1.cs",
+              "ToolTip": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Controllers\\ProductController1.cs",
+              "RelativeToolTip": "PassDataUsingModel\\Controllers\\ProductController1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:36:10.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "PassDataUsingModel\\Models\\Product.cs",
+              "ToolTip": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Models\\Product.cs",
+              "RelativeToolTip": "PassDataUsingModel\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T19:35:18.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "PassDataUsingModel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "E:\\Dotnet_core_mvc6_practice\\PassDataUsingModel\\PassDataUsingModel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "PassDataUsingModel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-26T19:13:08.861Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
