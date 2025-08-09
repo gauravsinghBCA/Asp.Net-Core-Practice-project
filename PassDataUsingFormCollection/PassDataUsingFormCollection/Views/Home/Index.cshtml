@@ -1,0 +1,32 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex justify-content-center align-items-center">
+   <form name="frm" action="/Home/ShowData" method="post" >
+       <div>
+           <input type="text" name="sname" placeholder="Enter name here.." />
+       </div>
+        <div>
+            <input type="text" name="scourse" placeholder="Enter course here.." />
+        </div>
+        <div>
+            <input type="date" name="sdob" />
+        </div>
+        <div class="d-flex ">
+            <input type="radio" id="male" name="gender" value="male"  />
+            <label for="Male" class="ms-1">Male</label>
+        
+       
+            <input type="radio" id="female" name="gender" value="female" class="ms-2" />
+            <label for="Female" class="ms-1">Female</label>
+        
+       
+            <input type="radio" id="other" name="gender" value="other" class="ms-2" />
+            <label for="Other" class="ms-1">Other</label>
+        </div>
+        <div>
+            <input type="submit"  value="Save" />
+        </div>
+   </form>
+</div>
