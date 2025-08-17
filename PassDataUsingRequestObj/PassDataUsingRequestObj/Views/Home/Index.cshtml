@@ -1,0 +1,21 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    
+   <form name="frm" action="/Home/ShowData" method="post">
+        <div>
+            <input type="text" name="sname" placeholder="Enter name here.." />
+        </div>
+        <div>
+            <input type="text" name="scourse" placeholder="Enter course here.." />
+        </div>
+        <div>
+            <input type="date" name="sdob" />
+        </div>
+        <div>
+            <input type="submit" value="Save" />
+        </div>
+   </form>
+</div>
