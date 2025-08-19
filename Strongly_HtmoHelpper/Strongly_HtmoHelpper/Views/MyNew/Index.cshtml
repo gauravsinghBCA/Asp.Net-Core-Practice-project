@@ -1,0 +1,31 @@
+﻿@model Strongly_HtmoHelpper.Models.Student
+
+<div class="container d-flex justify-content-center align-items-center vh-100 ">
+    <div class="container">
+        <div class="row justify-content-center">
+            <div class="col-md-6 col-6">
+                @using(Html.BeginForm("ShowData","MyNew"))
+                {
+                    <div>
+                        @Html.LabelFor(s => s.sname)
+                    </div>
+                    <div>
+                        @Html.TextBoxFor(s=>s.sname)
+                    </div>
+                    <div>
+                        @Html.LabelFor(s=>s.pass)
+                    </div>
+                    <div>
+                        @Html.PasswordFor(s=>s.pass)
+                    </div>
+                    <div>
+                       <input type="submit" value="Save" class="mt-2" />
+                        If registered?@Html.ActionLink("Login", "Login", "MyNew")
+                    </div>
+                    
+                }
+
+            </div>
+        </div>
+    </div>
+</div>
