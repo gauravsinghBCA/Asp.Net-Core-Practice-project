@@ -1,0 +1,78 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@{
+    List<string> cors = new List<string> { "BCA","BBA","MCA","MBA" };
+}
+<div class="container bg-white">
+<div class="row">
+ <div class="col-md-6 col-6">
+@using (Html.BeginForm("ShowData","Home"))
+{              
+            <div>
+            @Html.Label("lbln","Enter name",new {@class="form-label"})
+            </div>
+            <div>
+                    @Html.TextBox("lbln", "", new { @class = "form-control" })
+            </div>
+             <div>
+              @Html.Label("lblf", "Enter father's name", new { @class = "form-label" })
+              </div>
+              <div>
+                    @Html.TextBox("lblf", "", new { @class = "form-control" })
+             </div>
+                <div>
+                    @Html.Label("lblp", "Enter password", new { @class = "form-label" })
+                    </div>
+                    <div>
+                    @Html.Password("lblp", "", new { @class = "form-control" })
+                </div>
+                <div>
+                    @Html.Label("lblrp", "Enter re-password", new { @class = "form-label" })
+                    </div>
+                    <div>
+                    @Html.Password("lblrp", "", new { @class = "form-control" })
+                </div>
+                <div>
+                    @Html.Label("gen", "Select gender", new { @class = "form-label" })
+                    </div>
+                    <div>
+                    @Html.RadioButton("gen","Male",true,new{ID="male"})Male
+                    @Html.RadioButton("gen", "Feale", false, new { ID = "female" })Feale
+                    @Html.RadioButton("gen", "Other", false, new { ID = "other" })Other
+
+                </div>
+                <div>
+                    @Html.Label("lblcourse", "Select Course", new { @class = "form-label" })
+
+                </div>
+                <div>
+                    @Html.DropDownList("lblcourse", new SelectList(cors),"--select course--",new{@class= "form-control"})
+                </div>
+                <div>
+                    @Html.Label("lblcheck", "Select hobbies", new { @class = "form-label" })
+                    </div>
+                    <div>
+                    @Html.CheckBox("Cricket", false, "") Cricket
+                    @Html.CheckBox("Coding", false, "") Coding
+                    @Html.CheckBox("Reading", false, "") Reading
+                    @Html.CheckBox("Writting", false,"") Writting
+                    </div>
+                    <div>
+                        @Html.Label("lbltxtarea","Write Massege",new {@class="form-label"})
+                    </div>
+                    <div>
+                    @Html.TextArea("lbltxtarea", "", new { @class = "form-control" })
+                    </div>
+                    <br />
+                    <div class=" d-flex justify-content-center align-content-center">
+                        <input type="submit" value="Save" class="btn btn-primary"  />
+                    <input type="button" value="Cancel" class="btn btn-danger" />
+                    </div>
+                    <div>
+                       If registered @Html.ActionLink("Login","Login","Home")
+                    </div>
+}
+    </div>
+</div>
+</div>
