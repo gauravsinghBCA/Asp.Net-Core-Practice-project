@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Implementing_Scoffolding.props" />
+</Project>

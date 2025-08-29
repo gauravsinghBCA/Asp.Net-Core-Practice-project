@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Implementing_Scoffolding.props" />
+</Project>
