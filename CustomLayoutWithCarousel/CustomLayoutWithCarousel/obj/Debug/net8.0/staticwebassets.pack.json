@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\banner1.jpg",
+      "PackagePath": "staticwebassets\\images\\banner1.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\banner2.jpg",
+      "PackagePath": "staticwebassets\\images\\banner2.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\banner3.jpg",
+      "PackagePath": "staticwebassets\\images\\banner3.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\banner4.jpg",
+      "PackagePath": "staticwebassets\\images\\banner4.jpg"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\sliderdr1.png",
+      "PackagePath": "staticwebassets\\images\\sliderdr1.png"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\sliderdr2.png",
+      "PackagePath": "staticwebassets\\images\\sliderdr2.png"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\sliderdr3.png",
+      "PackagePath": "staticwebassets\\images\\sliderdr3.png"
+    },
+    {
+      "Id": "E:\\Dotnet_core_mvc6_practice\\CustomLayoutWithCarousel\\CustomLayoutWithCarousel\\wwwroot\\images\\sliderdr4.png",
+      "PackagePath": "staticwebassets\\images\\sliderdr4.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CustomLayoutWithCarousel.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.CustomLayoutWithCarousel.props",
+      "PackagePath": "build\\CustomLayoutWithCarousel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.CustomLayoutWithCarousel.props",
+      "PackagePath": "buildMultiTargeting\\CustomLayoutWithCarousel.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.CustomLayoutWithCarousel.props",
+      "PackagePath": "buildTransitive\\CustomLayoutWithCarousel.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
